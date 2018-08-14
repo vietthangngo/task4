@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 12
 >>>>>>> bb7d2f8... Third commit
@@ -10,3 +11,6 @@
 =======
 1234
 >>>>>>> 6e807f9... Fifth commit
+=======
+1
+>>>>>>> 9dfefed... Second commit
